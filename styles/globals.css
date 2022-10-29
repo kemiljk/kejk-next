@@ -1,0 +1,240 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hidden {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  html,
+  body {
+    @apply m-0 bg-white p-0 dark:bg-[#141516];
+  }
+
+  input,
+  textarea,
+  button,
+  select,
+  a {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }
+
+  h2 {
+    @apply mb-4 pt-4 text-2xl font-bold leading-snug text-black dark:text-white;
+  }
+
+  h3 {
+    @apply mb-4 pt-4 text-xl font-bold leading-snug text-black dark:text-white;
+  }
+
+  h4 {
+    @apply mb-4 pt-8 text-lg font-semibold leading-snug text-black dark:text-white;
+  }
+
+  a.inline-link {
+    @apply font-bold text-black underline decoration-teal-500 decoration-2 underline-offset-4 transition ease-in-out hover:text-teal-500 dark:text-white;
+  }
+
+  .inline-link a {
+    @apply font-bold text-black underline decoration-teal-500 decoration-2 underline-offset-4 transition ease-in-out hover:text-teal-500 dark:text-white;
+  }
+
+  a.nav {
+    @apply px-4 py-2 font-normal text-black no-underline transition ease-in-out dark:text-white;
+  }
+
+  a.nav[aria-current] {
+    @apply rounded-full bg-neutral-200 px-4 py-2 text-teal-800 dark:bg-neutral-700 dark:text-teal-300 md:bg-neutral-100 md:dark:bg-neutral-800;
+  }
+
+  p {
+    @apply pb-4 leading-relaxed text-neutral-700 dark:text-neutral-300;
+  }
+
+  span {
+    @apply font-normal leading-relaxed;
+  }
+
+  ul {
+    @apply ml-8 mb-4 list-disc text-neutral-700 dark:text-neutral-300;
+  }
+
+  ol {
+    @apply ml-8 mb-4 list-decimal text-neutral-700 dark:text-neutral-300;
+  }
+
+  blockquote {
+    @apply my-4 ml-4 border-l-4 border-neutral-200 italic dark:border-neutral-800;
+  }
+
+  blockquote p {
+    @apply ml-4 pb-0 text-neutral-500 dark:text-neutral-300;
+  }
+
+  pre {
+    @apply mb-4 w-full overflow-x-scroll whitespace-pre rounded-lg bg-neutral-100 font-mono dark:bg-neutral-800;
+  }
+
+  pre > code {
+    @apply bg-transparent font-mono;
+  }
+
+  code {
+    @apply w-max rounded-lg bg-neutral-100 py-1 px-2 font-mono text-sm text-black dark:bg-neutral-800 dark:text-white;
+  }
+
+  code > span {
+    @apply font-mono;
+  }
+
+  figcaption {
+    @apply mt-2 italic text-neutral-700 dark:text-neutral-400;
+  }
+}
+
+@layer components {
+  img {
+    @apply rounded border border-neutral-100 dark:border-neutral-700;
+  }
+
+  img.inline-image {
+    @apply inline-flex h-auto w-full;
+  }
+}
+
+.fr-inner {
+  @apply mt-2 text-sm italic !leading-3 text-neutral-700 dark:text-neutral-400;
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+  background: 0 0;
+  font-size: 1em;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+pre[class*="language-"] {
+  padding: 1em;
+  margin: 0.5em 0;
+  overflow: auto;
+}
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+  @apply bg-neutral-50 dark:bg-neutral-800;
+}
+:not(pre) > code[class*="language-"] {
+  padding: 0.1em;
+  border-radius: 0.3em;
+  white-space: normal;
+}
+.token.block-comment,
+.token.cdata,
+.token.comment,
+.token.doctype,
+.token.prolog {
+  @apply text-neutral-400 dark:text-neutral-700;
+}
+.token.punctuation {
+  @apply text-blue-600 dark:text-blue-400;
+}
+.token.attr-name,
+.token.deleted,
+.token.namespace {
+  @apply text-red-700 dark:text-red-400;
+}
+.token.tag {
+  @apply text-lime-600 dark:text-lime-400;
+}
+.token.function-name {
+  @apply text-sky-600 dark:text-sky-400;
+}
+.token.boolean,
+.token.function,
+.token.number {
+  @apply text-orange-600 dark:text-orange-400;
+}
+.token.class-name,
+.token.constant,
+.token.property,
+.token.symbol,
+.token.parameter {
+  @apply text-yellow-600 dark:text-yellow-400;
+}
+.token.atrule,
+.token.builtin,
+.token.important,
+.token.keyword,
+.token.selector {
+  @apply text-purple-600 dark:text-purple-400;
+}
+.token.attr-value,
+.token.char,
+.token.regex,
+.token.string,
+.token.variable {
+  @apply text-teal-600 dark:text-teal-400;
+}
+.token.entity,
+.token.operator,
+.token.url {
+  @apply text-cyan-600 dark:text-cyan-400;
+}
+.token.bold,
+.token.important {
+  @apply font-bold;
+}
+.token.italic {
+  font-style: italic;
+}
+.token.entity {
+  @apply cursor-help;
+}
+.token.inserted {
+  @apply text-green-600 dark:text-green-400;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  position: relative;
+  -webkit-appearance: none;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  background: url(../public/search-cancel.svg) no-repeat 50% 50%;
+  background-size: contain;
+}
+
+/* .invisible-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+::-webkit-scrollbar {
+  @apply h-[0.4em] w-[0.5em];
+}
+
+::-webkit-scrollbar-track {
+  @apply my-4 bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply w-2 rounded-full bg-neutral-200 dark:bg-neutral-600;
+} */

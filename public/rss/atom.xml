@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kejk.tech</id>
+    <title>KEJK | Writing</title>
+    <updated>2022-10-29T10:42:25.511Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Karl Emil James Koch</name>
+        <email>karl@kejk.tech</email>
+        <uri>https://twitter.com/_kejk</uri>
+    </author>
+    <link rel="alternate" href="https://kejk.tech"/>
+    <link rel="self" href="https://kejk.tech/rss/atom.xml"/>
+    <subtitle>Thoughts on design, development and career progression</subtitle>
+    <logo>https://kejk.tech/logo.svg</logo>
+    <icon>https://kejk.tech/favicon.ico</icon>
+    <rights>All rights reserved 2022, Karl Emil James Koch</rights>
+    <entry>
+        <title type="html"><![CDATA[Shift gears and switch careers]]></title>
+        <id>630729e21cc4270009346f04</id>
+        <link href="https://kejk.tech/thoughts/shift-gears-switch-careers"/>
+        <updated>2022-09-03T07:11:35.706Z</updated>
+        <summary type="html"><![CDATA[I've talked about my history before, but I haven't provided explicit advice about how to switch careers]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strip your URLs to super simple domains]]></title>
+        <id>62f786e97502240009ec4d22</id>
+        <link href="https://kejk.tech/thoughts/strip-your-urls-to-super-simple-domains"/>
+        <updated>2022-08-19T14:19:31.653Z</updated>
+        <summary type="html"><![CDATA[RegEx has been around since the 50's, and it's still just as unreadable]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing API-first]]></title>
+        <id>62e2e0f59f26bd0e6c6b2d3e</id>
+        <link href="https://kejk.tech/thoughts/designing-api-first"/>
+        <updated>2022-08-07T21:54:48.738Z</updated>
+        <summary type="html"><![CDATA[The power of  visualising your API as part of your design process to align the entire team]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make friends and influence designers]]></title>
+        <id>62e2e0f39f26bd0e6c6b2c21</id>
+        <link href="https://kejk.tech/thoughts/how-to-make-friends-and-influence-designers"/>
+        <updated>2022-09-06T06:51:20.154Z</updated>
+        <summary type="html"><![CDATA[Why every design crit should be well structured, predictable and facilitated]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design for handshakes not handovers]]></title>
+        <id>62e2e0f39f26bd0e6c6b2bf0</id>
+        <link href="https://kejk.tech/thoughts/design-for-handshakes-not-handovers"/>
+        <updated>2022-08-15T06:51:16.326Z</updated>
+        <summary type="html"><![CDATA[Why it's better to shake hands with your developers, than throw your designs over the fence]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On creativity as a process for catharsis]]></title>
+        <id>62e2e0f39f26bd0e6c6b2b9d</id>
+        <link href="https://kejk.tech/thoughts/on-creativity-as-a-process-for-catharsis"/>
+        <updated>2022-02-05T13:02:09.893Z</updated>
+        <summary type="html"><![CDATA[The more I listen to our third album, the more I recognise the fact that I wrote it as a form of catharsis.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumination, iteration or procrastination]]></title>
+        <id>62e2e0f29f26bd0e6c6b2b91</id>
+        <link href="https://kejk.tech/thoughts/rumination-iteration-or-procrastination"/>
+        <updated>2022-07-31T10:11:47.880Z</updated>
+        <summary type="html"><![CDATA[Knowing when to let an idea go and when to not even go there.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relative seniority]]></title>
+        <id>62e2e0f29f26bd0e6c6b2b4c</id>
+        <link href="https://kejk.tech/thoughts/relative-seniority"/>
+        <updated>2022-07-31T10:12:15.359Z</updated>
+        <summary type="html"><![CDATA[How your title is reflective of your company's stage as well as your level.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polywork: LinkedIn without the Suits]]></title>
+        <id>62e2e0f29f26bd0e6c6b2b2c</id>
+        <link href="https://kejk.tech/thoughts/polywork-linkedin-without-the-suits"/>
+        <updated>2022-07-31T10:12:45.017Z</updated>
+        <summary type="html"><![CDATA[The future of networking is being built in the open.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tempo: Designing a product that demands to not be used]]></title>
+        <id>62e2e0f29f26bd0e6c6b2b2b</id>
+        <link href="https://kejk.tech/thoughts/tempo-designing-a-product-that-demands-to-not-be-used"/>
+        <updated>2022-09-07T07:10:09.767Z</updated>
+        <summary type="html"><![CDATA[Tempo is a minimalist email client, making email simple again]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why every designer should experience customer service]]></title>
+        <id>62e2e0f29f26bd0e6c6b2b22</id>
+        <link href="https://kejk.tech/thoughts/why-every-designer-should-experience-customer-service"/>
+        <updated>2021-07-18T16:44:03.795Z</updated>
+        <summary type="html"><![CDATA[It's common when joining a new company to get thrown straight in at the deep end. Sometimes, it’s better not to. ]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I've learnt over the past year]]></title>
+        <id>62e2e0f29f26bd0e6c6b2b13</id>
+        <link href="https://kejk.tech/thoughts/what-ive-learnt-over-the-past-year"/>
+        <updated>2022-09-06T06:27:55.159Z</updated>
+        <summary type="html"><![CDATA[Lessons I’ve learnt over the past year.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatial Design]]></title>
+        <id>62e2e0f29f26bd0e6c6b2b0f</id>
+        <link href="https://kejk.tech/thoughts/spatial-design"/>
+        <updated>2021-06-11T22:05:57.533Z</updated>
+        <summary type="html"><![CDATA[Product Design is a term we use broadly these days to define a designer who creates products.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you should reply to automated emails]]></title>
+        <id>62e2e0f29f26bd0e6c6b2b0e</id>
+        <link href="https://kejk.tech/thoughts/why-you-should-reply-to-automated-emails"/>
+        <updated>2021-05-15T13:22:30.410Z</updated>
+        <summary type="html"><![CDATA[Reply to those automated emails, you never know what might happen.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The power of Cosmic]]></title>
+        <id>62e2e0f29f26bd0e6c6b2b0d</id>
+        <link href="https://kejk.tech/thoughts/the-power-of-cosmic"/>
+        <updated>2022-08-15T06:48:18.572Z</updated>
+        <summary type="html"><![CDATA[Not too long ago I decided to set myself a challenge; create and add new content to my website via a CMS.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting DRY with Figma plugins]]></title>
+        <id>62e2e0f29f26bd0e6c6b2afc</id>
+        <link href="https://kejk.tech/thoughts/getting-dry-with-figma-plugins"/>
+        <updated>2022-08-15T06:45:18.057Z</updated>
+        <summary type="html"><![CDATA[Solving design problems by building Figma plugins. ]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a cult taught me about 'limiting beliefs']]></title>
+        <id>62e2e0f29f26bd0e6c6b2af2</id>
+        <link href="https://kejk.tech/thoughts/what-a-cult-taught-me-about-limiting-beliefs"/>
+        <updated>2022-08-15T06:40:49.025Z</updated>
+        <summary type="html"><![CDATA[You should never feel like you have no limiting beliefs, but you should always fight to overcome them.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How music, design and code are all the same]]></title>
+        <id>62e2e0f19f26bd0e6c6b2add</id>
+        <link href="https://kejk.tech/thoughts/how-music-design-and-development-are-all-the-same"/>
+        <updated>2022-09-06T06:24:35.710Z</updated>
+        <summary type="html"><![CDATA[I wouldn't say I believe creativity is a gift we're born with. I don't believe my abilities are.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing in the open]]></title>
+        <id>62e2e0f19f26bd0e6c6b2ad1</id>
+        <link href="https://kejk.tech/thoughts/designing-in-the-open"/>
+        <updated>2022-09-06T06:19:37.671Z</updated>
+        <summary type="html"><![CDATA[What I’ve learnt about sharing constantly and live designing with my team.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code as Design]]></title>
+        <id>62e2e0f19f26bd0e6c6b2ad4</id>
+        <link href="https://kejk.tech/thoughts/code-as-design"/>
+        <updated>2022-02-26T21:46:34.553Z</updated>
+        <summary type="html"><![CDATA[How development can be learned through a design lens (and how I've managed to do it). ]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking in design-code]]></title>
+        <id>62e2e0f19f26bd0e6c6b2ad9</id>
+        <link href="https://kejk.tech/thoughts/thinking-in-design-code"/>
+        <updated>2021-12-21T13:42:42.461Z</updated>
+        <summary type="html"><![CDATA[My personal approach on how to think about code from a design perspective and how to implement those changes.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting to yes]]></title>
+        <id>62e2e0f19f26bd0e6c6b2ac3</id>
+        <link href="https://kejk.tech/thoughts/getting-to-yes"/>
+        <updated>2021-12-21T13:44:38.162Z</updated>
+        <summary type="html"><![CDATA[Why I think designers and developers should learn the basics of sales. ]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design as Code]]></title>
+        <id>62e2e0f19f26bd0e6c6b2ac4</id>
+        <link href="https://kejk.tech/thoughts/designing-in-code"/>
+        <updated>2021-12-21T13:44:27.546Z</updated>
+        <summary type="html"><![CDATA[What learning Vue has taught me about the future of design, development and the modern web.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Principles for Good Design]]></title>
+        <id>62e2e0f19f26bd0e6c6b2ac5</id>
+        <link href="https://kejk.tech/thoughts/ten-principles-for-good-design"/>
+        <updated>2022-09-06T06:14:25.139Z</updated>
+        <summary type="html"><![CDATA[I decided to put together a free, multi-device, minimal wallpaper of Ram's ten principles. ]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From problem to plugin]]></title>
+        <id>62e2e0f19f26bd0e6c6b2ac6</id>
+        <link href="https://kejk.tech/thoughts/from-problem-to-plugin"/>
+        <updated>2022-08-15T06:36:00.668Z</updated>
+        <summary type="html"><![CDATA[Learning Typescript, the Figma API and solving a real personal problem.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t let your role define you]]></title>
+        <id>62e2e0f19f26bd0e6c6b2ad7</id>
+        <link href="https://kejk.tech/thoughts/dont-let-your-role-define-you"/>
+        <updated>2022-09-06T06:12:35.850Z</updated>
+        <summary type="html"><![CDATA[A practical guide on how to navigate your career when the path you're heading down isn't the one you truly want.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Users’ are humans]]></title>
+        <id>62e2e0f19f26bd0e6c6b2ac2</id>
+        <link href="https://kejk.tech/thoughts/why-users-are-humans"/>
+        <updated>2022-08-15T06:15:55.803Z</updated>
+        <summary type="html"><![CDATA[Design is about people, and I've been thinking a lot about the problem of the term 'user'.]]></summary>
+        <author>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </author>
+        <contributor>
+            <name>Karl Emil James Koch</name>
+            <email>karl@kejk.tech</email>
+            <uri>https://twitter.com/_kejk</uri>
+        </contributor>
+    </entry>
+</feed>

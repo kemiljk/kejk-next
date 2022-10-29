@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>KEJK | Writing</title>
+        <link>https://kejk.tech</link>
+        <description>Thoughts on design, development and career progression</description>
+        <lastBuildDate>Sat, 29 Oct 2022 10:42:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>KEJK | Writing</title>
+            <url>https://kejk.tech/logo.svg</url>
+            <link>https://kejk.tech</link>
+        </image>
+        <copyright>All rights reserved 2022, Karl Emil James Koch</copyright>
+        <item>
+            <title><![CDATA[Shift gears and switch careers]]></title>
+            <link>https://kejk.tech/thoughts/shift-gears-switch-careers</link>
+            <guid>630729e21cc4270009346f04</guid>
+            <pubDate>Sat, 03 Sep 2022 07:11:35 GMT</pubDate>
+            <description><![CDATA[I've talked about my history before, but I haven't provided explicit advice about how to switch careers]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/bffbd240-25ea-11ed-b52d-a3f33977cd87-image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Strip your URLs to super simple domains]]></title>
+            <link>https://kejk.tech/thoughts/strip-your-urls-to-super-simple-domains</link>
+            <guid>62f786e97502240009ec4d22</guid>
+            <pubDate>Fri, 19 Aug 2022 14:19:31 GMT</pubDate>
+            <description><![CDATA[RegEx has been around since the 50's, and it's still just as unreadable]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/1cbc0130-1afb-11ed-a845-076c64d3ede5-image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Designing API-first]]></title>
+            <link>https://kejk.tech/thoughts/designing-api-first</link>
+            <guid>62e2e0f59f26bd0e6c6b2d3e</guid>
+            <pubDate>Sun, 07 Aug 2022 21:54:48 GMT</pubDate>
+            <description><![CDATA[The power of  visualising your API as part of your design process to align the entire team]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/6f81a520-0a8c-11ed-b7be-d956591ad437-image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to make friends and influence designers]]></title>
+            <link>https://kejk.tech/thoughts/how-to-make-friends-and-influence-designers</link>
+            <guid>62e2e0f39f26bd0e6c6b2c21</guid>
+            <pubDate>Tue, 06 Sep 2022 06:51:20 GMT</pubDate>
+            <description><![CDATA[Why every design crit should be well structured, predictable and facilitated]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/aeb86150-8bea-11ec-ae88-8982447d5ddf-How-to-make-friends-and-influence-designers2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Design for handshakes not handovers]]></title>
+            <link>https://kejk.tech/thoughts/design-for-handshakes-not-handovers</link>
+            <guid>62e2e0f39f26bd0e6c6b2bf0</guid>
+            <pubDate>Mon, 15 Aug 2022 06:51:16 GMT</pubDate>
+            <description><![CDATA[Why it's better to shake hands with your developers, than throw your designs over the fence]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/ce4e34c0-855c-11ec-8e12-4f611a7927fa-Design-for-handshakes-not-handovers2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[On creativity as a process for catharsis]]></title>
+            <link>https://kejk.tech/thoughts/on-creativity-as-a-process-for-catharsis</link>
+            <guid>62e2e0f39f26bd0e6c6b2b9d</guid>
+            <pubDate>Sat, 05 Feb 2022 13:02:09 GMT</pubDate>
+            <description><![CDATA[The more I listen to our third album, the more I recognise the fact that I wrote it as a form of catharsis.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/d1f54750-7975-11ec-bc8e-0b22aad4e2bd-On-creativity-as-a-process-for-catharsis2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rumination, iteration or procrastination]]></title>
+            <link>https://kejk.tech/thoughts/rumination-iteration-or-procrastination</link>
+            <guid>62e2e0f29f26bd0e6c6b2b91</guid>
+            <pubDate>Sun, 31 Jul 2022 10:11:47 GMT</pubDate>
+            <description><![CDATA[Knowing when to let an idea go and when to not even go there.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/6eaeed60-627b-11ec-a8a3-53f360c99be6-Rumination-iteration-or-procrastination2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Relative seniority]]></title>
+            <link>https://kejk.tech/thoughts/relative-seniority</link>
+            <guid>62e2e0f29f26bd0e6c6b2b4c</guid>
+            <pubDate>Sun, 31 Jul 2022 10:12:15 GMT</pubDate>
+            <description><![CDATA[How your title is reflective of your company's stage as well as your level.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/f18308c0-4084-11ec-9580-ebf669758fed-Relative-seniority2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Polywork: LinkedIn without the Suits]]></title>
+            <link>https://kejk.tech/thoughts/polywork-linkedin-without-the-suits</link>
+            <guid>62e2e0f29f26bd0e6c6b2b2c</guid>
+            <pubDate>Sun, 31 Jul 2022 10:12:45 GMT</pubDate>
+            <description><![CDATA[The future of networking is being built in the open.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/a7d2fc40-fa97-11eb-a0e3-6dfb85d6dcb4-Polywork-LinkedIn-without-the-Suits2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Tempo: Designing a product that demands to not be used]]></title>
+            <link>https://kejk.tech/thoughts/tempo-designing-a-product-that-demands-to-not-be-used</link>
+            <guid>62e2e0f29f26bd0e6c6b2b2b</guid>
+            <pubDate>Wed, 07 Sep 2022 07:10:09 GMT</pubDate>
+            <description><![CDATA[Tempo is a minimalist email client, making email simple again]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/ab9e5b20-faa2-11eb-a0e3-6dfb85d6dcb4-Tempo-Designing-a-product-that-demands-to-not-be-used2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why every designer should experience customer service]]></title>
+            <link>https://kejk.tech/thoughts/why-every-designer-should-experience-customer-service</link>
+            <guid>62e2e0f29f26bd0e6c6b2b22</guid>
+            <pubDate>Sun, 18 Jul 2021 16:44:03 GMT</pubDate>
+            <description><![CDATA[It's common when joining a new company to get thrown straight in at the deep end. Sometimes, it’s better not to. ]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/28abee30-e7e7-11eb-a375-6937647c8908-Why-every-designer-should-experience-customer-service2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[What I've learnt over the past year]]></title>
+            <link>https://kejk.tech/thoughts/what-ive-learnt-over-the-past-year</link>
+            <guid>62e2e0f29f26bd0e6c6b2b13</guid>
+            <pubDate>Tue, 06 Sep 2022 06:27:55 GMT</pubDate>
+            <description><![CDATA[Lessons I’ve learnt over the past year.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/ff5c95a0-c5f1-11eb-93bc-d7c81bee3189-D7882D40-C6C3-4DBA-ACA2-1CDDCE7EAEE2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Spatial Design]]></title>
+            <link>https://kejk.tech/thoughts/spatial-design</link>
+            <guid>62e2e0f29f26bd0e6c6b2b0f</guid>
+            <pubDate>Fri, 11 Jun 2021 22:05:57 GMT</pubDate>
+            <description><![CDATA[Product Design is a term we use broadly these days to define a designer who creates products.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/890faf80-b580-11eb-b5b6-fd115d17c053-Spatial-Design2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why you should reply to automated emails]]></title>
+            <link>https://kejk.tech/thoughts/why-you-should-reply-to-automated-emails</link>
+            <guid>62e2e0f29f26bd0e6c6b2b0e</guid>
+            <pubDate>Sat, 15 May 2021 13:22:30 GMT</pubDate>
+            <description><![CDATA[Reply to those automated emails, you never know what might happen.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/96c97ac0-b580-11eb-b5b6-fd115d17c053-Why-you-should-reply-to-automated-emails2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The power of Cosmic]]></title>
+            <link>https://kejk.tech/thoughts/the-power-of-cosmic</link>
+            <guid>62e2e0f29f26bd0e6c6b2b0d</guid>
+            <pubDate>Mon, 15 Aug 2022 06:48:18 GMT</pubDate>
+            <description><![CDATA[Not too long ago I decided to set myself a challenge; create and add new content to my website via a CMS.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/9fd7bf50-b580-11eb-b5b6-fd115d17c053-The-power-of-Cosmic2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Getting DRY with Figma plugins]]></title>
+            <link>https://kejk.tech/thoughts/getting-dry-with-figma-plugins</link>
+            <guid>62e2e0f29f26bd0e6c6b2afc</guid>
+            <pubDate>Mon, 15 Aug 2022 06:45:18 GMT</pubDate>
+            <description><![CDATA[Solving design problems by building Figma plugins. ]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/aae0c270-b580-11eb-b5b6-fd115d17c053-Getting-DRY-with-Figma-plugins2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[What a cult taught me about 'limiting beliefs']]></title>
+            <link>https://kejk.tech/thoughts/what-a-cult-taught-me-about-limiting-beliefs</link>
+            <guid>62e2e0f29f26bd0e6c6b2af2</guid>
+            <pubDate>Mon, 15 Aug 2022 06:40:49 GMT</pubDate>
+            <description><![CDATA[You should never feel like you have no limiting beliefs, but you should always fight to overcome them.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/b73dbcd0-b580-11eb-b5b6-fd115d17c053-What-a-cult-taught-me-about-limiting-beliefs2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How music, design and code are all the same]]></title>
+            <link>https://kejk.tech/thoughts/how-music-design-and-development-are-all-the-same</link>
+            <guid>62e2e0f19f26bd0e6c6b2add</guid>
+            <pubDate>Tue, 06 Sep 2022 06:24:35 GMT</pubDate>
+            <description><![CDATA[I wouldn't say I believe creativity is a gift we're born with. I don't believe my abilities are.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/c68fdb50-b580-11eb-b5b6-fd115d17c053-How-music-design-and-code-are-all-the-same2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Designing in the open]]></title>
+            <link>https://kejk.tech/thoughts/designing-in-the-open</link>
+            <guid>62e2e0f19f26bd0e6c6b2ad1</guid>
+            <pubDate>Tue, 06 Sep 2022 06:19:37 GMT</pubDate>
+            <description><![CDATA[What I’ve learnt about sharing constantly and live designing with my team.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/1ea17b00-b581-11eb-b5b6-fd115d17c053-Designing-in-the-open2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Code as Design]]></title>
+            <link>https://kejk.tech/thoughts/code-as-design</link>
+            <guid>62e2e0f19f26bd0e6c6b2ad4</guid>
+            <pubDate>Sat, 26 Feb 2022 21:46:34 GMT</pubDate>
+            <description><![CDATA[How development can be learned through a design lens (and how I've managed to do it). ]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/0f334900-b581-11eb-b5b6-fd115d17c053-Code-as-Design2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Thinking in design-code]]></title>
+            <link>https://kejk.tech/thoughts/thinking-in-design-code</link>
+            <guid>62e2e0f19f26bd0e6c6b2ad9</guid>
+            <pubDate>Tue, 21 Dec 2021 13:42:42 GMT</pubDate>
+            <description><![CDATA[My personal approach on how to think about code from a design perspective and how to implement those changes.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/d60a4250-b580-11eb-b5b6-fd115d17c053-Thinking-in-design-code2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Getting to yes]]></title>
+            <link>https://kejk.tech/thoughts/getting-to-yes</link>
+            <guid>62e2e0f19f26bd0e6c6b2ac3</guid>
+            <pubDate>Tue, 21 Dec 2021 13:44:38 GMT</pubDate>
+            <description><![CDATA[Why I think designers and developers should learn the basics of sales. ]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/53e77b20-b581-11eb-b5b6-fd115d17c053-Getting-to-yes2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Design as Code]]></title>
+            <link>https://kejk.tech/thoughts/designing-in-code</link>
+            <guid>62e2e0f19f26bd0e6c6b2ac4</guid>
+            <pubDate>Tue, 21 Dec 2021 13:44:27 GMT</pubDate>
+            <description><![CDATA[What learning Vue has taught me about the future of design, development and the modern web.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/4897ab00-b581-11eb-b5b6-fd115d17c053-Design-as-Code2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ten Principles for Good Design]]></title>
+            <link>https://kejk.tech/thoughts/ten-principles-for-good-design</link>
+            <guid>62e2e0f19f26bd0e6c6b2ac5</guid>
+            <pubDate>Tue, 06 Sep 2022 06:14:25 GMT</pubDate>
+            <description><![CDATA[I decided to put together a free, multi-device, minimal wallpaper of Ram's ten principles. ]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/3c812f80-b581-11eb-b5b6-fd115d17c053-Ten-Principles-for-Good-Design2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[From problem to plugin]]></title>
+            <link>https://kejk.tech/thoughts/from-problem-to-plugin</link>
+            <guid>62e2e0f19f26bd0e6c6b2ac6</guid>
+            <pubDate>Mon, 15 Aug 2022 06:36:00 GMT</pubDate>
+            <description><![CDATA[Learning Typescript, the Figma API and solving a real personal problem.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/2d2992c0-b581-11eb-b5b6-fd115d17c053-From-problem-to-plugin2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Don’t let your role define you]]></title>
+            <link>https://kejk.tech/thoughts/dont-let-your-role-define-you</link>
+            <guid>62e2e0f19f26bd0e6c6b2ad7</guid>
+            <pubDate>Tue, 06 Sep 2022 06:12:35 GMT</pubDate>
+            <description><![CDATA[A practical guide on how to navigate your career when the path you're heading down isn't the one you truly want.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/04668b90-b581-11eb-b5b6-fd115d17c053-Dont-let-your-role-define-you2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Users’ are humans]]></title>
+            <link>https://kejk.tech/thoughts/why-users-are-humans</link>
+            <guid>62e2e0f19f26bd0e6c6b2ac2</guid>
+            <pubDate>Mon, 15 Aug 2022 06:15:55 GMT</pubDate>
+            <description><![CDATA[Design is about people, and I've been thinking a lot about the problem of the term 'user'.]]></description>
+            <author>karl@kejk.tech (Karl Emil James Koch)</author>
+            <enclosure url="https://imgix.cosmicjs.com/5ff62e70-b581-11eb-b5b6-fd115d17c053-Why-users-are-humans2x.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

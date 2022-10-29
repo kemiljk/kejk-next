@@ -1,0 +1,338 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "KEJK | Writing",
+    "home_page_url": "https://kejk.tech",
+    "feed_url": "https://kejk.tech/rss/feed.json",
+    "description": "Thoughts on design, development and career progression",
+    "icon": "https://kejk.tech/logo.svg",
+    "author": {
+        "name": "Karl Emil James Koch",
+        "url": "https://twitter.com/_kejk"
+    },
+    "items": [
+        {
+            "id": "630729e21cc4270009346f04",
+            "url": "https://kejk.tech/thoughts/shift-gears-switch-careers",
+            "title": "Shift gears and switch careers",
+            "summary": "I've talked about my history before, but I haven't provided explicit advice about how to switch careers",
+            "image": "https://imgix.cosmicjs.com/bffbd240-25ea-11ed-b52d-a3f33977cd87-image.png",
+            "date_modified": "2022-09-03T07:11:35.706Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62f786e97502240009ec4d22",
+            "url": "https://kejk.tech/thoughts/strip-your-urls-to-super-simple-domains",
+            "title": "Strip your URLs to super simple domains",
+            "summary": "RegEx has been around since the 50's, and it's still just as unreadable",
+            "image": "https://imgix.cosmicjs.com/1cbc0130-1afb-11ed-a845-076c64d3ede5-image.png",
+            "date_modified": "2022-08-19T14:19:31.653Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f59f26bd0e6c6b2d3e",
+            "url": "https://kejk.tech/thoughts/designing-api-first",
+            "title": "Designing API-first",
+            "summary": "The power of  visualising your API as part of your design process to align the entire team",
+            "image": "https://imgix.cosmicjs.com/6f81a520-0a8c-11ed-b7be-d956591ad437-image.png",
+            "date_modified": "2022-08-07T21:54:48.738Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f39f26bd0e6c6b2c21",
+            "url": "https://kejk.tech/thoughts/how-to-make-friends-and-influence-designers",
+            "title": "How to make friends and influence designers",
+            "summary": "Why every design crit should be well structured, predictable and facilitated",
+            "image": "https://imgix.cosmicjs.com/aeb86150-8bea-11ec-ae88-8982447d5ddf-How-to-make-friends-and-influence-designers2x.png",
+            "date_modified": "2022-09-06T06:51:20.154Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f39f26bd0e6c6b2bf0",
+            "url": "https://kejk.tech/thoughts/design-for-handshakes-not-handovers",
+            "title": "Design for handshakes not handovers",
+            "summary": "Why it's better to shake hands with your developers, than throw your designs over the fence",
+            "image": "https://imgix.cosmicjs.com/ce4e34c0-855c-11ec-8e12-4f611a7927fa-Design-for-handshakes-not-handovers2x.png",
+            "date_modified": "2022-08-15T06:51:16.326Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f39f26bd0e6c6b2b9d",
+            "url": "https://kejk.tech/thoughts/on-creativity-as-a-process-for-catharsis",
+            "title": "On creativity as a process for catharsis",
+            "summary": "The more I listen to our third album, the more I recognise the fact that I wrote it as a form of catharsis.",
+            "image": "https://imgix.cosmicjs.com/d1f54750-7975-11ec-bc8e-0b22aad4e2bd-On-creativity-as-a-process-for-catharsis2x.png",
+            "date_modified": "2022-02-05T13:02:09.893Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2b91",
+            "url": "https://kejk.tech/thoughts/rumination-iteration-or-procrastination",
+            "title": "Rumination, iteration or procrastination",
+            "summary": "Knowing when to let an idea go and when to not even go there.",
+            "image": "https://imgix.cosmicjs.com/6eaeed60-627b-11ec-a8a3-53f360c99be6-Rumination-iteration-or-procrastination2x.png",
+            "date_modified": "2022-07-31T10:11:47.880Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2b4c",
+            "url": "https://kejk.tech/thoughts/relative-seniority",
+            "title": "Relative seniority",
+            "summary": "How your title is reflective of your company's stage as well as your level.",
+            "image": "https://imgix.cosmicjs.com/f18308c0-4084-11ec-9580-ebf669758fed-Relative-seniority2x.png",
+            "date_modified": "2022-07-31T10:12:15.359Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2b2c",
+            "url": "https://kejk.tech/thoughts/polywork-linkedin-without-the-suits",
+            "title": "Polywork: LinkedIn without the Suits",
+            "summary": "The future of networking is being built in the open.",
+            "image": "https://imgix.cosmicjs.com/a7d2fc40-fa97-11eb-a0e3-6dfb85d6dcb4-Polywork-LinkedIn-without-the-Suits2x.png",
+            "date_modified": "2022-07-31T10:12:45.017Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2b2b",
+            "url": "https://kejk.tech/thoughts/tempo-designing-a-product-that-demands-to-not-be-used",
+            "title": "Tempo: Designing a product that demands to not be used",
+            "summary": "Tempo is a minimalist email client, making email simple again",
+            "image": "https://imgix.cosmicjs.com/ab9e5b20-faa2-11eb-a0e3-6dfb85d6dcb4-Tempo-Designing-a-product-that-demands-to-not-be-used2x.png",
+            "date_modified": "2022-09-07T07:10:09.767Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2b22",
+            "url": "https://kejk.tech/thoughts/why-every-designer-should-experience-customer-service",
+            "title": "Why every designer should experience customer service",
+            "summary": "It's common when joining a new company to get thrown straight in at the deep end. Sometimes, it’s better not to. ",
+            "image": "https://imgix.cosmicjs.com/28abee30-e7e7-11eb-a375-6937647c8908-Why-every-designer-should-experience-customer-service2x.png",
+            "date_modified": "2021-07-18T16:44:03.795Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2b13",
+            "url": "https://kejk.tech/thoughts/what-ive-learnt-over-the-past-year",
+            "title": "What I've learnt over the past year",
+            "summary": "Lessons I’ve learnt over the past year.",
+            "image": "https://imgix.cosmicjs.com/ff5c95a0-c5f1-11eb-93bc-d7c81bee3189-D7882D40-C6C3-4DBA-ACA2-1CDDCE7EAEE2.png",
+            "date_modified": "2022-09-06T06:27:55.159Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2b0f",
+            "url": "https://kejk.tech/thoughts/spatial-design",
+            "title": "Spatial Design",
+            "summary": "Product Design is a term we use broadly these days to define a designer who creates products.",
+            "image": "https://imgix.cosmicjs.com/890faf80-b580-11eb-b5b6-fd115d17c053-Spatial-Design2x.png",
+            "date_modified": "2021-06-11T22:05:57.533Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2b0e",
+            "url": "https://kejk.tech/thoughts/why-you-should-reply-to-automated-emails",
+            "title": "Why you should reply to automated emails",
+            "summary": "Reply to those automated emails, you never know what might happen.",
+            "image": "https://imgix.cosmicjs.com/96c97ac0-b580-11eb-b5b6-fd115d17c053-Why-you-should-reply-to-automated-emails2x.png",
+            "date_modified": "2021-05-15T13:22:30.410Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2b0d",
+            "url": "https://kejk.tech/thoughts/the-power-of-cosmic",
+            "title": "The power of Cosmic",
+            "summary": "Not too long ago I decided to set myself a challenge; create and add new content to my website via a CMS.",
+            "image": "https://imgix.cosmicjs.com/9fd7bf50-b580-11eb-b5b6-fd115d17c053-The-power-of-Cosmic2x.png",
+            "date_modified": "2022-08-15T06:48:18.572Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2afc",
+            "url": "https://kejk.tech/thoughts/getting-dry-with-figma-plugins",
+            "title": "Getting DRY with Figma plugins",
+            "summary": "Solving design problems by building Figma plugins. ",
+            "image": "https://imgix.cosmicjs.com/aae0c270-b580-11eb-b5b6-fd115d17c053-Getting-DRY-with-Figma-plugins2x.png",
+            "date_modified": "2022-08-15T06:45:18.057Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f29f26bd0e6c6b2af2",
+            "url": "https://kejk.tech/thoughts/what-a-cult-taught-me-about-limiting-beliefs",
+            "title": "What a cult taught me about 'limiting beliefs'",
+            "summary": "You should never feel like you have no limiting beliefs, but you should always fight to overcome them.",
+            "image": "https://imgix.cosmicjs.com/b73dbcd0-b580-11eb-b5b6-fd115d17c053-What-a-cult-taught-me-about-limiting-beliefs2x.png",
+            "date_modified": "2022-08-15T06:40:49.025Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2add",
+            "url": "https://kejk.tech/thoughts/how-music-design-and-development-are-all-the-same",
+            "title": "How music, design and code are all the same",
+            "summary": "I wouldn't say I believe creativity is a gift we're born with. I don't believe my abilities are.",
+            "image": "https://imgix.cosmicjs.com/c68fdb50-b580-11eb-b5b6-fd115d17c053-How-music-design-and-code-are-all-the-same2x.png",
+            "date_modified": "2022-09-06T06:24:35.710Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2ad1",
+            "url": "https://kejk.tech/thoughts/designing-in-the-open",
+            "title": "Designing in the open",
+            "summary": "What I’ve learnt about sharing constantly and live designing with my team.",
+            "image": "https://imgix.cosmicjs.com/1ea17b00-b581-11eb-b5b6-fd115d17c053-Designing-in-the-open2x.png",
+            "date_modified": "2022-09-06T06:19:37.671Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2ad4",
+            "url": "https://kejk.tech/thoughts/code-as-design",
+            "title": "Code as Design",
+            "summary": "How development can be learned through a design lens (and how I've managed to do it). ",
+            "image": "https://imgix.cosmicjs.com/0f334900-b581-11eb-b5b6-fd115d17c053-Code-as-Design2x.png",
+            "date_modified": "2022-02-26T21:46:34.553Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2ad9",
+            "url": "https://kejk.tech/thoughts/thinking-in-design-code",
+            "title": "Thinking in design-code",
+            "summary": "My personal approach on how to think about code from a design perspective and how to implement those changes.",
+            "image": "https://imgix.cosmicjs.com/d60a4250-b580-11eb-b5b6-fd115d17c053-Thinking-in-design-code2x.png",
+            "date_modified": "2021-12-21T13:42:42.461Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2ac3",
+            "url": "https://kejk.tech/thoughts/getting-to-yes",
+            "title": "Getting to yes",
+            "summary": "Why I think designers and developers should learn the basics of sales. ",
+            "image": "https://imgix.cosmicjs.com/53e77b20-b581-11eb-b5b6-fd115d17c053-Getting-to-yes2x.png",
+            "date_modified": "2021-12-21T13:44:38.162Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2ac4",
+            "url": "https://kejk.tech/thoughts/designing-in-code",
+            "title": "Design as Code",
+            "summary": "What learning Vue has taught me about the future of design, development and the modern web.",
+            "image": "https://imgix.cosmicjs.com/4897ab00-b581-11eb-b5b6-fd115d17c053-Design-as-Code2x.png",
+            "date_modified": "2021-12-21T13:44:27.546Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2ac5",
+            "url": "https://kejk.tech/thoughts/ten-principles-for-good-design",
+            "title": "Ten Principles for Good Design",
+            "summary": "I decided to put together a free, multi-device, minimal wallpaper of Ram's ten principles. ",
+            "image": "https://imgix.cosmicjs.com/3c812f80-b581-11eb-b5b6-fd115d17c053-Ten-Principles-for-Good-Design2x.png",
+            "date_modified": "2022-09-06T06:14:25.139Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2ac6",
+            "url": "https://kejk.tech/thoughts/from-problem-to-plugin",
+            "title": "From problem to plugin",
+            "summary": "Learning Typescript, the Figma API and solving a real personal problem.",
+            "image": "https://imgix.cosmicjs.com/2d2992c0-b581-11eb-b5b6-fd115d17c053-From-problem-to-plugin2x.png",
+            "date_modified": "2022-08-15T06:36:00.668Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2ad7",
+            "url": "https://kejk.tech/thoughts/dont-let-your-role-define-you",
+            "title": "Don’t let your role define you",
+            "summary": "A practical guide on how to navigate your career when the path you're heading down isn't the one you truly want.",
+            "image": "https://imgix.cosmicjs.com/04668b90-b581-11eb-b5b6-fd115d17c053-Dont-let-your-role-define-you2x.png",
+            "date_modified": "2022-09-06T06:12:35.850Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        },
+        {
+            "id": "62e2e0f19f26bd0e6c6b2ac2",
+            "url": "https://kejk.tech/thoughts/why-users-are-humans",
+            "title": "‘Users’ are humans",
+            "summary": "Design is about people, and I've been thinking a lot about the problem of the term 'user'.",
+            "image": "https://imgix.cosmicjs.com/5ff62e70-b581-11eb-b5b6-fd115d17c053-Why-users-are-humans2x.png",
+            "date_modified": "2022-08-15T06:15:55.803Z",
+            "author": {
+                "name": "Karl Emil James Koch",
+                "url": "https://twitter.com/_kejk"
+            }
+        }
+    ]
+}

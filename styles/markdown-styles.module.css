@@ -1,0 +1,30 @@
+.markdown {
+  @apply text-lg leading-relaxed;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  @apply pt-4 text-neutral-500 dark:text-neutral-300;
+}
+
+.markdown h2 {
+  @apply mt-4 mb-4 text-2xl font-semibold leading-snug text-neutral-500 dark:text-neutral-400;
+}
+
+.markdown h3 {
+  @apply mt-4 mb-2 text-xl font-medium leading-snug text-neutral-800 dark:text-neutral-200;
+}
+
+.markdown a {
+  @apply font-bold text-black underline decoration-teal-500 decoration-2 underline-offset-4 transition ease-in-out hover:text-teal-500 dark:text-white;
+}
+
+.markdown ul li {
+  @apply mb-2 list-inside list-disc rounded p-2 text-[16px] font-semibold shadow-md md:text-[18px];
+}
+
+.markdown ol li {
+  @apply mb-2 list-inside list-decimal rounded p-2 text-[16px] font-semibold md:text-[18px];
+}
