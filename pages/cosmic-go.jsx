@@ -51,7 +51,7 @@ const CosmicGo = ({ cosmicGo }) => {
       </Head>
       <main>
         <div className="group mb-8 flex w-full justify-start">
-          <Link href={"#"}>
+          <Link legacyBehavior href={"#"}>
             <a className="" onClick={goBack}>
               <TextButton textColor="black" darkTextColor="white">
                 <ArrowLongLeftIcon className="mr-2 h-6 w-6 flex-shrink-0 text-neutral-500 group-hover:text-teal-500 dark:text-neutral-400" />

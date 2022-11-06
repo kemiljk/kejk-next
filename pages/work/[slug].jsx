@@ -55,7 +55,7 @@ export default function Project({ work }) {
         ) : (
           <>
             <div className="group mb-8 flex w-full justify-start">
-              <Link href={"/work"}>
+              <Link legacyBehavior href={"/work"}>
                 <a className="">
                   <TextButton textColor="black" darkTextColor="white">
                     <ArrowLongLeftIcon className="mr-2 h-6 w-6 flex-shrink-0 text-neutral-500 group-hover:text-teal-500 dark:text-neutral-400" />

@@ -94,7 +94,7 @@ export default function Home({
             <EnvelopeIcon width={20} height={20} className="mr-2" />
             Chat to me
           </Button>
-          <Link href={"/about"}>
+          <Link legacyBehavior href={"/about"}>
             <Button
               bgColor="bg-neutral-100 dark:bg-neutral-800"
               textColor="text-black dark:text-white"
@@ -117,7 +117,7 @@ export default function Home({
         <div className="mt-2 grid grid-cols-1 gap-8 md:grid-cols-3">
           {writings.map((writing, idx) => {
             return (
-              <Link key={idx} href={`/thoughts/${writing.slug}`}>
+              <Link legacyBehavior key={idx} href={`/thoughts/${writing.slug}`}>
                 <a className="">
                   <WritingCard
                     title={writing.title}
@@ -130,7 +130,7 @@ export default function Home({
           })}
         </div>
         <div className="mx-auto mt-8 flex w-full justify-center">
-          <Link href={"/writing"}>
+          <Link legacyBehavior href={"/writing"}>
             <Button
               bgColor="bg-neutral-100 dark:bg-transparent"
               textColor="text-black dark:text-white"
@@ -176,7 +176,7 @@ export default function Home({
           })}
         </div>
         <div className="mx-auto mt-8 flex w-full justify-center">
-          <Link href={"/features"}>
+          <Link legacyBehavior href={"/features"}>
             <Button
               bgColor="bg-neutral-100 dark:bg-transparent"
               textColor="text-black dark:text-white"
@@ -228,7 +228,7 @@ export default function Home({
           })}
         </div>
         <div className="mx-auto mt-8 flex w-full justify-center">
-          <Link href={"/bookmarks"}>
+          <Link legacyBehavior href={"/bookmarks"}>
             <Button
               bgColor="bg-neutral-100 dark:bg-transparent"
               textColor="text-black dark:text-white"

@@ -22,7 +22,7 @@ export default function Document() {
           }
           rel={"stylesheet"}
           media={"print"}
-          onLoad={"this.media='all'"}
+          // onLoad={"this.media='all'"}
         />
         <noscript>
           <link

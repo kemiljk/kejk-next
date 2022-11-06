@@ -125,7 +125,7 @@ export default function Post({ allPosts, post }) {
         ) : (
           <>
             <div className="group mb-8 flex w-full justify-start">
-              <Link href={"/writing"}>
+              <Link legacyBehavior href={"/writing"}>
                 <a className="">
                   <TextButton textColor="black" darkTextColor="white">
                     <ArrowLongLeftIcon className="mr-2 h-6 w-6 flex-shrink-0 text-neutral-500 group-hover:text-teal-500 dark:text-neutral-400" />
@@ -161,7 +161,12 @@ export default function Post({ allPosts, post }) {
                 `mb-4 flex items-center justify-center space-x-2 rounded-md border border-neutral-200 bg-neutral-100 py-2 px-4 text-sm font-medium text-black transition ease-in-out hover:border-teal-500 dark:border-neutral-700 dark:bg-neutral-800 dark:text-white md:w-max md:text-base`
               )}
             >
-              <LinkIcon className="mr-2 h-6 w-6 flex-shrink-0 text-neutral-500 dark:text-neutral-400" />
+              <Link
+                legacyBehavior
+                legacyBehavior
+                Icon
+                className="mr-2 h-6 w-6 flex-shrink-0 text-neutral-500 dark:text-neutral-400"
+              />
               Copy link to clipboard
             </button>
             <Toast
@@ -189,7 +194,12 @@ export default function Post({ allPosts, post }) {
             allPosts
               .filter((nextPost) => nextPost?.id !== post?.id)
               .map((nextPost, idx) => (
-                <Link key={idx} href={`/thoughts/${nextPost.slug}`}>
+                <Link
+                  legacyBehavior
+                  legacyBehavior
+                  key={idx}
+                  href={`/thoughts/${nextPost.slug}`}
+                >
                   <a className="">
                     <WritingCard
                       title={nextPost.title}

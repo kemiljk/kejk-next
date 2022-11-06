@@ -5,7 +5,7 @@ import AllCapsHeader from "../components/AllCapsHeader";
 
 const AppCard = ({ title, subtitle, image, link, year }) => {
   return (
-    <Link href={link}>
+    <Link legacyBehavior href={link}>
       <a
         className="flex flex-col space-y-2 rounded-xl border border-neutral-200 p-4 transition-all ease-in-out hover:cursor-pointer hover:border-teal-600 hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900
     "

@@ -184,7 +184,11 @@ export default function Writing({ writings }) {
                                 Subscribe
                               </button>
                             </form>
-                            <Link href="https://kejk.tech/rss/feed.xml">
+                            <Link
+                              legacyBehavior
+                              legacyBehavior
+                              href="https://kejk.tech/rss/feed.xml"
+                            >
                               <>
                                 <span className=" text-neutral-600 dark:text-neutral-300">
                                   Or you can subscribe via{" "}
@@ -241,7 +245,12 @@ export default function Writing({ writings }) {
             {foundPosts && foundPosts.length > 0 ? (
               foundPosts.map((writing, idx) => {
                 return (
-                  <Link key={idx} href={`/thoughts/${writing.slug}`}>
+                  <Link
+                    legacyBehavior
+                    legacyBehavior
+                    key={idx}
+                    href={`/thoughts/${writing.slug}`}
+                  >
                     <a className="">
                       <WritingCard
                         title={writing.title}
