@@ -1,9 +1,8 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import AllCapsHeader from "../components/AllCapsHeader";
 
-const AppCard = ({ title, subtitle, image, link, year }) => {
+const WorkCard = ({ title, subtitle, image, link, year }) => {
   return (
     <Link
       href={link}
@@ -38,4 +37,4 @@ const AppCard = ({ title, subtitle, image, link, year }) => {
   );
 };
 
-export default AppCard;
+export default WorkCard;
